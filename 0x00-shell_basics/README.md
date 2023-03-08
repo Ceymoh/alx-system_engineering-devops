@@ -1,1 +1,1 @@
-change working directory to previous
+list all files even hidden long format
