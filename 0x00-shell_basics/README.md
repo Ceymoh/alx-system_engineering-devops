@@ -1,1 +1,1 @@
-copy all html files from current directory to parent
+move all uppercase to directory
