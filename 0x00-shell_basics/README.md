@@ -1,1 +1,1 @@
-print file inside a directory
+create symbolic link
