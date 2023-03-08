@@ -1,1 +1,1 @@
-display current directory long format hidden files and user and group displayed numeric
+create directory /my_first_directory inside /tmp/
