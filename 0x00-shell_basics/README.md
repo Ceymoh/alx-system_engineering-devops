@@ -1,1 +1,1 @@
-create directory /my_first_directory inside /tmp/
+move betty from /tmp/ to /tmp/my_first_directory
