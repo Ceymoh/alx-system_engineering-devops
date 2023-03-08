@@ -1,1 +1,1 @@
-move all uppercase to directory
+delete alll files ending with~
