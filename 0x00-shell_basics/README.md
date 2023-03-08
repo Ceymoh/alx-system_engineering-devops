@@ -1,1 +1,1 @@
-list all files even hidden long format
+print file inside a directory
