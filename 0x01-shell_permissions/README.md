@@ -1,1 +1,1 @@
-one user to have similar permission as user 2
+change permisions of subdirectories
