@@ -1,1 +1,1 @@
-creating directory adn assigning permission
+change group ownership
