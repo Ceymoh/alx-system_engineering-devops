@@ -1,1 +1,1 @@
-change permisions of subdirectories
+creating directory adn assigning permission
