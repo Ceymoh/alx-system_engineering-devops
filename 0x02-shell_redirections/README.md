@@ -1,1 +1,1 @@
-display uniq words only
+contiue matching
