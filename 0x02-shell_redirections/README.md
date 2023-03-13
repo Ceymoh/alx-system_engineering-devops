@@ -1,1 +1,1 @@
-display 10 latest files
+display uniq words only
