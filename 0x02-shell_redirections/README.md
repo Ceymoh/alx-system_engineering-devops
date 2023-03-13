@@ -1,1 +1,1 @@
-create a file and name it and inputdata
+write results to a file standard output
