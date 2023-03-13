@@ -1,1 +1,1 @@
-counts the number of directories  not accounting parent directory
+display 10 latest files
