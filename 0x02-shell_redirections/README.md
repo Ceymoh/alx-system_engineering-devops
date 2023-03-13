@@ -1,1 +1,1 @@
-delete all files with .js
+counts the number of directories  not accounting parent directory
