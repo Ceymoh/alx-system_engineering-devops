@@ -1,1 +1,1 @@
-display the 3 line of the file
+create a file and name it and inputdata
