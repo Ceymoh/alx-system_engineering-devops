@@ -1,1 +1,1 @@
-write results to a file standard output
+duplicate the last line
