@@ -1,1 +1,1 @@
-display /etc/passwd content
+view content of 2 files the sametime
