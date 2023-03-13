@@ -1,1 +1,1 @@
-view content of 2 files the sametime
+display last 10 lines
