@@ -1,1 +1,1 @@
-add directory to PATH and be the last serach
+print all enviroment variables
