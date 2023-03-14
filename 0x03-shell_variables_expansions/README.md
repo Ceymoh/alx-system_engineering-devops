@@ -1,1 +1,1 @@
-create a new local variable
+creating global/enviroment viriable
