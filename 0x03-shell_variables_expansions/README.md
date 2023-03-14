@@ -1,1 +1,1 @@
-arithmetic query with variable
+division arithmetic
