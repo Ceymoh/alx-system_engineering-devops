@@ -1,1 +1,1 @@
-multiple combination with an exception
+display counts on a path
