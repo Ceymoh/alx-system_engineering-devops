@@ -1,1 +1,1 @@
-change base to another base
+multiple combination with an exception
