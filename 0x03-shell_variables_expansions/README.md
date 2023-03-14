@@ -1,1 +1,1 @@
-creating global/enviroment viriable
+arithmetic query with variable
